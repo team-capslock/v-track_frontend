@@ -66,7 +66,6 @@ Helping you with data that can boost your sales and market share<br></br>
             Welcom Back!
           </h2>
           <p className="mt-2 text-sm text-gray-500">
-            Please sign in to your account
           </p>
         </div>
         <div className="flex flex-row justify-center items-center space-x-3">
@@ -103,7 +102,7 @@ Helping you with data that can boost your sales and market share<br></br>
         </div>
         <div className="flex items-center justify-center space-x-2">
           <span className="h-px w-16 bg-gray-200" />
-          <span className="text-gray-300 font-normal">or continue with</span>
+          <span className="text-gray-300 font-normal">Sign In</span>
           <span className="h-px w-16 bg-gray-200" />
         </div>
         <form className="mt-8 space-y-6" action="#" method="POST">
